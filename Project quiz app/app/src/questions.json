@@ -1,0 +1,1102 @@
+[
+  {
+    "id": 1,
+    "question": "HTML ka full form kya hai?",
+    "options": [
+      "Hyper Text Markup Language",
+      "High Text Machine Language",
+      "Hyperlink Text Management Language",
+      "Home Tool Markup Language"
+    ],
+    "answer": "Hyper Text Markup Language"
+  },
+  {
+    "id": 2,
+    "question": "CSS ka full form kya hai?",
+    "options": [
+      "Creative Style Sheets",
+      "Cascading Style Sheets",
+      "Computer Style Sheets",
+      "Colorful Style Sheets"
+    ],
+    "answer": "Cascading Style Sheets"
+  },
+  {
+    "id": 3,
+    "question": "JavaScript ka use mainly kis liye kiya jata hai?",
+    "options": [
+      "Webpage ko interactive banane ke liye",
+      "Sirf webpage ka color change karne ke liye",
+      "Database banane ke liye",
+      "HTML ko replace karne ke liye"
+    ],
+    "answer": "Webpage ko interactive banane ke liye"
+  },
+  {
+    "id": 4,
+    "question": "HTML me sabse bada heading tag kaunsa hai?",
+    "options": [
+      "<h1>",
+      "<h6>",
+      "<head>",
+      "<heading>"
+    ],
+    "answer": "<h1>"
+  },
+  {
+    "id": 5,
+    "question": "HTML me paragraph ke liye kaunsa tag use hota hai?",
+    "options": [
+      "<para>",
+      "<text>",
+      "<p>",
+      "<paragraph>"
+    ],
+    "answer": "<p>"
+  },
+  {
+    "id": 6,
+    "question": "HTML me image add karne ke liye kaunsa tag use hota hai?",
+    "options": [
+      "<image>",
+      "<img>",
+      "<src>",
+      "<picture>"
+    ],
+    "answer": "<img>"
+  },
+  {
+    "id": 7,
+    "question": "HTML me link banane ke liye kaunsa tag use hota hai?",
+    "options": [
+      "<link>",
+      "<a>",
+      "<href>",
+      "<url>"
+    ],
+    "answer": "<a>"
+  },
+  {
+    "id": 8,
+    "question": "CSS me text ka color change karne ke liye kaunsi property use hoti hai?",
+    "options": [
+      "text-color",
+      "font-color",
+      "color",
+      "text-style"
+    ],
+    "answer": "color"
+  },
+  {
+    "id": 9,
+    "question": "CSS me background color change karne ke liye kaunsi property use hoti hai?",
+    "options": [
+      "bg-color",
+      "background-color",
+      "background-style",
+      "color-background"
+    ],
+    "answer": "background-color"
+  },
+  {
+    "id": 10,
+    "question": "CSS me text ka size change karne ke liye kaunsi property use hoti hai?",
+    "options": [
+      "text-size",
+      "font-size",
+      "size",
+      "font-height"
+    ],
+    "answer": "font-size"
+  },
+  {
+    "id": 11,
+    "question": "CSS me element ke andar ka space kya kehlata hai?",
+    "options": [
+      "Margin",
+      "Padding",
+      "Border",
+      "Gap"
+    ],
+    "answer": "Padding"
+  },
+  {
+    "id": 12,
+    "question": "CSS me element ke bahar ka space kya kehlata hai?",
+    "options": [
+      "Padding",
+      "Margin",
+      "Border",
+      "Gap"
+    ],
+    "answer": "Margin"
+  },
+  {
+    "id": 13,
+    "question": "JavaScript me variable declare karne ke liye kaunsa keyword use kiya ja sakta hai?",
+    "options": [
+      "var",
+      "define",
+      "variable",
+      "int"
+    ],
+    "answer": "var"
+  },
+  {
+    "id": 14,
+    "question": "JavaScript me output console me dekhne ke liye kya use hota hai?",
+    "options": [
+      "print()",
+      "console.log()",
+      "display()",
+      "output()"
+    ],
+    "answer": "console.log()"
+  },
+  {
+    "id": 15,
+    "question": "JavaScript array ke end me element add karne ke liye kaunsa method use hota hai?",
+    "options": [
+      "pop()",
+      "push()",
+      "shift()",
+      "add()"
+    ],
+    "answer": "push()"
+  },
+  {
+    "id": 16,
+    "question": "JavaScript array ke last element ko remove karne ke liye kaunsa method use hota hai?",
+    "options": [
+      "remove()",
+      "delete()",
+      "pop()",
+      "shift()"
+    ],
+    "answer": "pop()"
+  },
+  {
+    "id": 17,
+    "question": "JavaScript me strict equality ke liye kaunsa operator use hota hai?",
+    "options": [
+      "=",
+      "==",
+      "===",
+      "!="
+    ],
+    "answer": "==="
+  },
+  {
+    "id": 18,
+    "question": "HTML document ka root element kaunsa hota hai?",
+    "options": [
+      "<body>",
+      "<head>",
+      "<html>",
+      "<main>"
+    ],
+    "answer": "<html>"
+  },
+  {
+    "id": 19,
+    "question": "CSS me text ko center karne ke liye kaunsi property use hoti hai?",
+    "options": [
+      "text-center",
+      "align-text",
+      "text-align",
+      "align-text-center"
+    ],
+    "answer": "text-align"
+  },
+  {
+    "id": 20,
+    "question": "JavaScript me single-line comment kaise likhte hain?",
+    "options": [
+      "<!-- comment -->",
+      "// comment",
+      "/* comment */",
+      "# comment"
+    ],
+    "answer": "// comment"
+  },
+  {
+    "id": 21,
+    "question": "HTML me unordered list banane ke liye kaunsa tag use hota hai?",
+    "options": [
+      "<ol>",
+      "<ul>",
+      "<li>",
+      "<list>"
+    ],
+    "answer": "<ul>"
+  },
+  {
+    "id": 22,
+    "question": "HTML me ordered list banane ke liye kaunsa tag use hota hai?",
+    "options": [
+      "<ul>",
+      "<list>",
+      "<ol>",
+      "<li>"
+    ],
+    "answer": "<ol>"
+  },
+  {
+    "id": 23,
+    "question": "HTML me list item ke liye kaunsa tag use hota hai?",
+    "options": [
+      "<item>",
+      "<li>",
+      "<list-item>",
+      "<ul>"
+    ],
+    "answer": "<li>"
+  },
+  {
+    "id": 24,
+    "question": "HTML me line break ke liye kaunsa tag use hota hai?",
+    "options": [
+      "<break>",
+      "<lb>",
+      "<br>",
+      "<newline>"
+    ],
+    "answer": "<br>"
+  },
+  {
+    "id": 25,
+    "question": "CSS me font ko bold karne ke liye kaunsi property use hoti hai?",
+    "options": [
+      "font-style",
+      "font-weight",
+      "text-weight",
+      "font-bold"
+    ],
+    "answer": "font-weight"
+  },
+  {
+    "id": 26,
+    "question": "CSS me element ki width set karne ke liye kaunsi property use hoti hai?",
+    "options": [
+      "size",
+      "element-width",
+      "width",
+      "box-width"
+    ],
+    "answer": "width"
+  },
+  {
+    "id": 27,
+    "question": "CSS me element ki height set karne ke liye kaunsi property use hoti hai?",
+    "options": [
+      "height",
+      "size-height",
+      "element-height",
+      "box-height"
+    ],
+    "answer": "height"
+  },
+  {
+    "id": 28,
+    "question": "CSS me rounded corners ke liye kaunsi property use hoti hai?",
+    "options": [
+      "corner-radius",
+      "border-radius",
+      "radius",
+      "border-corner"
+    ],
+    "answer": "border-radius"
+  },
+  {
+    "id": 29,
+    "question": "JavaScript me boolean value me se kaunsi valid hai?",
+    "options": [
+      "yes",
+      "true",
+      "1true",
+      "TrueValue"
+    ],
+    "answer": "true"
+  },
+  {
+    "id": 30,
+    "question": "JavaScript me condition check karne ke liye kaunsa statement use hota hai?",
+    "options": [
+      "check",
+      "if",
+      "condition",
+      "when"
+    ],
+    "answer": "if"
+  },
+  {
+    "id": 31,
+    "question": "JavaScript me multiple conditions ke liye if ke saath kya use kiya ja sakta hai?",
+    "options": [
+      "else if",
+      "otherwise if",
+      "elif",
+      "next if"
+    ],
+    "answer": "else if"
+  },
+  {
+    "id": 32,
+    "question": "JavaScript me loop ko repeat karne ke liye kaunsa statement use kiya ja sakta hai?",
+    "options": [
+      "repeat",
+      "loop",
+      "for",
+      "again"
+    ],
+    "answer": "for"
+  },
+  {
+    "id": 33,
+    "question": "JavaScript me function declare karne ke liye kaunsa keyword use hota hai?",
+    "options": [
+      "func",
+      "function",
+      "define",
+      "method"
+    ],
+    "answer": "function"
+  },
+  {
+    "id": 34,
+    "question": "JavaScript me array ka first index kya hota hai?",
+    "options": [
+      "0",
+      "1",
+      "-1",
+      "10"
+    ],
+    "answer": "0"
+  },
+  {
+    "id": 35,
+    "question": "CSS me class selector kis symbol se start hota hai?",
+    "options": [
+      "#",
+      ".",
+      "@",
+      ":"
+    ],
+    "answer": "."
+  },
+  {
+    "id": 36,
+    "question": "CSS me ID selector kis symbol se start hota hai?",
+    "options": [
+      ".",
+      "#",
+      "@",
+      "$"
+    ],
+    "answer": "#"
+  },
+  {
+    "id": 37,
+    "question": "HTML me form create karne ke liye kaunsa tag use hota hai?",
+    "options": [
+      "<input>",
+      "<form>",
+      "<fieldset>",
+      "<data>"
+    ],
+    "answer": "<form>"
+  },
+  {
+    "id": 38,
+    "question": "HTML input field me placeholder text dene ke liye kaunsa attribute use hota hai?",
+    "options": [
+      "hint",
+      "placeholder",
+      "label",
+      "text"
+    ],
+    "answer": "placeholder"
+  },
+  {
+    "id": 39,
+    "question": "JavaScript me object ko identify karne ke liye commonly kaunse brackets use hote hain?",
+    "options": [
+      "[]",
+      "()",
+      "{}",
+      "<>"
+    ],
+    "answer": "{}"
+  },
+  {
+    "id": 40,
+    "question": "JavaScript me array ko identify karne ke liye kaunse brackets use hote hain?",
+    "options": [
+      "{}",
+      "[]",
+      "()",
+      "<>"
+    ],
+    "answer": "[]"
+  },
+  {
+    "id": 41,
+    "question": "CSS Flexbox activate karne ke liye parent element par kya lagaya jata hai?",
+    "options": [
+      "display: flex;",
+      "flex: true;",
+      "position: flex;",
+      "display: box;"
+    ],
+    "answer": "display: flex;"
+  },
+  {
+    "id": 42,
+    "question": "Flexbox me items ko horizontal direction me center karne ke liye commonly kya use hota hai?",
+    "options": [
+      "align-items: center;",
+      "justify-content: center;",
+      "text-align: center;",
+      "place-text: center;"
+    ],
+    "answer": "justify-content: center;"
+  },
+  {
+    "id": 43,
+    "question": "Flexbox me items ko cross axis par center karne ke liye kaunsi property use hoti hai?",
+    "options": [
+      "justify-content",
+      "align-items",
+      "align-content",
+      "text-align"
+    ],
+    "answer": "align-items"
+  },
+  {
+    "id": 44,
+    "question": "CSS Grid activate karne ke liye kya use hota hai?",
+    "options": [
+      "display: grid;",
+      "grid: true;",
+      "position: grid;",
+      "display: table;"
+    ],
+    "answer": "display: grid;"
+  },
+  {
+    "id": 45,
+    "question": "CSS me element ko viewport ke according position karne ke liye kaunsa position value use hota hai?",
+    "options": [
+      "relative",
+      "absolute",
+      "fixed",
+      "static"
+    ],
+    "answer": "fixed"
+  },
+  {
+    "id": 46,
+    "question": "JavaScript me array ke har element par function execute karne ke liye kaunsa method use hota hai?",
+    "options": [
+      "map()",
+      "forEach()",
+      "filter()",
+      "reduce()"
+    ],
+    "answer": "forEach()"
+  },
+  {
+    "id": 47,
+    "question": "JavaScript me existing array se naya array create karne ke liye kaunsa method commonly use hota hai?",
+    "options": [
+      "map()",
+      "push()",
+      "pop()",
+      "join()"
+    ],
+    "answer": "map()"
+  },
+  {
+    "id": 48,
+    "question": "JavaScript me condition ke basis par array ke elements select karne ke liye kaunsa method use hota hai?",
+    "options": [
+      "map()",
+      "filter()",
+      "findIndex()",
+      "push()"
+    ],
+    "answer": "filter()"
+  },
+  {
+    "id": 49,
+    "question": "JavaScript me kisi array me pehla matching element find karne ke liye kaunsa method use hota hai?",
+    "options": [
+      "find()",
+      "search()",
+      "match()",
+      "first()"
+    ],
+    "answer": "find()"
+  },
+  {
+    "id": 50,
+    "question": "JavaScript me string ki length check karne ke liye kya use hota hai?",
+    "options": [
+      "string.size",
+      "string.length",
+      "string.count",
+      "string.length()"
+    ],
+    "answer": "string.length"
+  },
+  {
+    "id": 51,
+    "question": "DOM ka full form kya hai?",
+    "options": [
+      "Document Object Model",
+      "Data Object Management",
+      "Document Oriented Method",
+      "Dynamic Object Model"
+    ],
+    "answer": "Document Object Model"
+  },
+  {
+    "id": 52,
+    "question": "JavaScript me HTML element ko ID ke through select karne ke liye kya use hota hai?",
+    "options": [
+      "document.getElementById()",
+      "document.getById()",
+      "document.selectId()",
+      "document.findId()"
+    ],
+    "answer": "document.getElementById()"
+  },
+  {
+    "id": 53,
+    "question": "JavaScript me event listener add karne ke liye kaunsa method use hota hai?",
+    "options": [
+      "addEvent()",
+      "addEventListener()",
+      "listenEvent()",
+      "eventListener()"
+    ],
+    "answer": "addEventListener()"
+  },
+  {
+    "id": 54,
+    "question": "Button click ko detect karne ke liye kaunsa event use hota hai?",
+    "options": [
+      "press",
+      "click",
+      "button",
+      "submitClick"
+    ],
+    "answer": "click"
+  },
+  {
+    "id": 55,
+    "question": "JavaScript me JSON ka full form kya hai?",
+    "options": [
+      "JavaScript Object Notation",
+      "Java Source Object Network",
+      "JavaScript Online Notation",
+      "Java Object Notation"
+    ],
+    "answer": "JavaScript Object Notation"
+  },
+  {
+    "id": 56,
+    "question": "JSON me data ko generally kis format me store kiya jata hai?",
+    "options": [
+      "Key-value pairs",
+      "Only arrays",
+      "Only strings",
+      "Only functions"
+    ],
+    "answer": "Key-value pairs"
+  },
+  {
+    "id": 57,
+    "question": "CSS me responsive design ke liye kaunsa feature commonly use hota hai?",
+    "options": [
+      "Media Queries",
+      "CSS Functions",
+      "HTML Queries",
+      "Responsive Tags"
+    ],
+    "answer": "Media Queries"
+  },
+  {
+    "id": 58,
+    "question": "CSS me `box-sizing: border-box` ka main effect kya hai?",
+    "options": [
+      "Width aur height me padding aur border ko include karta hai",
+      "Element ko automatically center karta hai",
+      "Element ko hide karta hai",
+      "Font size ko change karta hai"
+    ],
+    "answer": "Width aur height me padding aur border ko include karta hai"
+  },
+  {
+    "id": 59,
+    "question": "JavaScript me `let` aur `const` kis purpose ke liye use hote hain?",
+    "options": [
+      "Variables declare karne ke liye",
+      "Loops create karne ke liye",
+      "Functions delete karne ke liye",
+      "HTML elements banane ke liye"
+    ],
+    "answer": "Variables declare karne ke liye"
+  },
+  {
+    "id": 60,
+    "question": "JavaScript me `const` variable ke baare me kya sahi hai?",
+    "options": [
+      "Usko redeclare karna mandatory hai",
+      "Uski binding ko reassign nahi kar sakte",
+      "Usme sirf strings store hoti hain",
+      "Wo sirf functions me use hota hai"
+    ],
+    "answer": "Uski binding ko reassign nahi kar sakte"
+  },
+  {
+    "id": 61,
+    "question": "JavaScript me `==` aur `===` me main difference kya hai?",
+    "options": [
+      "Dono exactly same hain",
+      "=== type ko bhi check karta hai",
+      "== type ko hamesha check karta hai",
+      "=== sirf strings ke liye hai"
+    ],
+    "answer": "=== type ko bhi check karta hai"
+  },
+  {
+    "id": 62,
+    "question": "JavaScript me `typeof null` ka result kya hota hai?",
+    "options": [
+      "null",
+      "undefined",
+      "object",
+      "boolean"
+    ],
+    "answer": "object"
+  },
+  {
+    "id": 63,
+    "question": "JavaScript me `NaN` ka full form kya maana jata hai?",
+    "options": [
+      "Not a Number",
+      "No Available Number",
+      "New Assigned Number",
+      "Not a Name"
+    ],
+    "answer": "Not a Number"
+  },
+  {
+    "id": 64,
+    "question": "JavaScript me array ke elements ko ek string me combine karne ke liye kaunsa method use hota hai?",
+    "options": [
+      "join()",
+      "combine()",
+      "merge()",
+      "concatString()"
+    ],
+    "answer": "join()"
+  },
+  {
+    "id": 65,
+    "question": "JavaScript me do arrays ko combine karne ke liye kaunsa method use kiya ja sakta hai?",
+    "options": [
+      "concat()",
+      "combine()",
+      "mergeArray()",
+      "joinArray()"
+    ],
+    "answer": "concat()"
+  },
+  {
+    "id": 66,
+    "question": "JavaScript me array ke end par element add karne ke alawa `push()` kya return karta hai?",
+    "options": [
+      "Added element",
+      "New array",
+      "New array length",
+      "Boolean value"
+    ],
+    "answer": "New array length"
+  },
+  {
+    "id": 67,
+    "question": "JavaScript me `map()` method kya return karta hai?",
+    "options": [
+      "Original array ko delete karta hai",
+      "Ek naya array",
+      "Sirf boolean",
+      "Ek string"
+    ],
+    "answer": "Ek naya array"
+  },
+  {
+    "id": 68,
+    "question": "JavaScript me `filter()` method kya return karta hai?",
+    "options": [
+      "Filtered elements ka naya array",
+      "Sirf first element",
+      "Boolean",
+      "String"
+    ],
+    "answer": "Filtered elements ka naya array"
+  },
+  {
+    "id": 69,
+    "question": "CSS me `position: absolute` element kis reference ke according position hota hai?",
+    "options": [
+      "Hamesha viewport ke according",
+      "Nearest positioned ancestor ke according",
+      "Sirf body ke according",
+      "Sirf browser window ke according"
+    ],
+    "answer": "Nearest positioned ancestor ke according"
+  },
+  {
+    "id": 70,
+    "question": "CSS me `z-index` ka use kis liye hota hai?",
+    "options": [
+      "Font size change karne ke liye",
+      "Elements ki stacking order control karne ke liye",
+      "Width set karne ke liye",
+      "Element ko responsive banane ke liye"
+    ],
+    "answer": "Elements ki stacking order control karne ke liye"
+  },
+  {
+    "id": 71,
+    "question": "CSS Flexbox me `flex-direction: column` kya karta hai?",
+    "options": [
+      "Items ko horizontal arrange karta hai",
+      "Items ko vertical arrange karta hai",
+      "Items ko hide karta hai",
+      "Items ko reverse karta hai"
+    ],
+    "answer": "Items ko vertical arrange karta hai"
+  },
+  {
+    "id": 72,
+    "question": "CSS me `overflow: hidden` kya karta hai?",
+    "options": [
+      "Content ko automatically bada karta hai",
+      "Container ke bahar overflow hone wale content ko hide karta hai",
+      "Element ko delete karta hai",
+      "Background remove karta hai"
+    ],
+    "answer": "Container ke bahar overflow hone wale content ko hide karta hai"
+  },
+  {
+    "id": 73,
+    "question": "JavaScript me closure kya hota hai?",
+    "options": [
+      "Ek function jo apne outer scope ko remember karta hai",
+      "Ek HTML element",
+      "Ek CSS property",
+      "Ek type of loop"
+    ],
+    "answer": "Ek function jo apne outer scope ko remember karta hai"
+  },
+  {
+    "id": 74,
+    "question": "JavaScript me hoisting kis concept se related hai?",
+    "options": [
+      "Declarations ko execution se pehle process karna",
+      "HTML ko CSS me convert karna",
+      "Array ko sort karna",
+      "Events ko remove karna"
+    ],
+    "answer": "Declarations ko execution se pehle process karna"
+  },
+  {
+    "id": 75,
+    "question": "JavaScript me Promise ka use mainly kis liye hota hai?",
+    "options": [
+      "Asynchronous operations handle karne ke liye",
+      "CSS style karne ke liye",
+      "HTML create karne ke liye",
+      "Arrays ko delete karne ke liye"
+    ],
+    "answer": "Asynchronous operations handle karne ke liye"
+  },
+  {
+    "id": 76,
+    "question": "JavaScript me async function ke andar Promise ka result wait karne ke liye kya use hota hai?",
+    "options": [
+      "wait",
+      "await",
+      "pause",
+      "hold"
+    ],
+    "answer": "await"
+  },
+  {
+    "id": 77,
+    "question": "JavaScript me API se data fetch karne ke liye commonly kya use kiya jata hai?",
+    "options": [
+      "fetch()",
+      "getData()",
+      "api()",
+      "requestData()"
+    ],
+    "answer": "fetch()"
+  },
+  {
+    "id": 78,
+    "question": "JavaScript me `try...catch` ka use kis liye hota hai?",
+    "options": [
+      "Errors handle karne ke liye",
+      "Loops create karne ke liye",
+      "CSS apply karne ke liye",
+      "Arrays sort karne ke liye"
+    ],
+    "answer": "Errors handle karne ke liye"
+  },
+  {
+    "id": 79,
+    "question": "Event bubbling me event generally kis direction me travel karta hai?",
+    "options": [
+      "Parent se child",
+      "Child se parent",
+      "Browser se server",
+      "Server se browser"
+    ],
+    "answer": "Child se parent"
+  },
+  {
+    "id": 80,
+    "question": "JavaScript me event ka default browser behavior rokne ke liye kya use hota hai?",
+    "options": [
+      "event.stop()",
+      "event.preventDefault()",
+      "event.prevent()",
+      "event.cancel()"
+    ],
+    "answer": "event.preventDefault()"
+  },
+  {
+    "id": 81,
+    "question": "JavaScript me event bubbling ko rokne ke liye kaunsa method use hota hai?",
+    "options": [
+      "event.preventDefault()",
+      "event.stopPropagation()",
+      "event.stopEvent()",
+      "event.cancelBubble()"
+    ],
+    "answer": "event.stopPropagation()"
+  },
+  {
+    "id": 82,
+    "question": "JavaScript me `reduce()` method ka common use kya hai?",
+    "options": [
+      "Array ko ek single accumulated value me reduce karna",
+      "Array ko sirf filter karna",
+      "HTML element create karna",
+      "CSS apply karna"
+    ],
+    "answer": "Array ko ek single accumulated value me reduce karna"
+  },
+  {
+    "id": 83,
+    "question": "JavaScript me `findIndex()` kya return karta hai?",
+    "options": [
+      "Matching element",
+      "Matching element ka index",
+      "Boolean",
+      "New array"
+    ],
+    "answer": "Matching element ka index"
+  },
+  {
+    "id": 84,
+    "question": "JavaScript me destructuring ka use kis liye kiya ja sakta hai?",
+    "options": [
+      "Array ya object se values ko easily extract karne ke liye",
+      "CSS delete karne ke liye",
+      "HTML render karne ke liye",
+      "Function ko stop karne ke liye"
+    ],
+    "answer": "Array ya object se values ko easily extract karne ke liye"
+  },
+  {
+    "id": 85,
+    "question": "JavaScript me spread operator ka symbol kya hai?",
+    "options": [
+      "...",
+      "***",
+      "=>",
+      "&&"
+    ],
+    "answer": "..."
+  },
+  {
+    "id": 86,
+    "question": "JavaScript me arrow function ka basic syntax kaunsa hai?",
+    "options": [
+      "function => ()",
+      "() => {}",
+      "=> function()",
+      "func() -> {}"
+    ],
+    "answer": "() => {}"
+  },
+  {
+    "id": 87,
+    "question": "CSS specificity me generally ID selector ki specificity class selector se kaisi hoti hai?",
+    "options": [
+      "Kam",
+      "Zyada",
+      "Same",
+      "Specificity hoti hi nahi"
+    ],
+    "answer": "Zyada"
+  },
+  {
+    "id": 88,
+    "question": "CSS me `!important` ka use kya karta hai?",
+    "options": [
+      "Rule ki priority ko increase karta hai",
+      "Rule ko delete karta hai",
+      "Element ko hide karta hai",
+      "CSS file ko optimize karta hai"
+    ],
+    "answer": "Rule ki priority ko increase karta hai"
+  },
+  {
+    "id": 89,
+    "question": "CSS Grid me columns define karne ke liye kaunsi property use hoti hai?",
+    "options": [
+      "grid-columns",
+      "grid-template-columns",
+      "columns-grid",
+      "grid-column-size"
+    ],
+    "answer": "grid-template-columns"
+  },
+  {
+    "id": 90,
+    "question": "CSS me `clamp()` function ka use kis liye kiya ja sakta hai?",
+    "options": [
+      "Responsive value ko minimum aur maximum limits ke saath set karne ke liye",
+      "Element delete karne ke liye",
+      "Animation stop karne ke liye",
+      "Only colors set karne ke liye"
+    ],
+    "answer": "Responsive value ko minimum aur maximum limits ke saath set karne ke liye"
+  },
+  {
+    "id": 91,
+    "question": "JavaScript event loop ka main role kya hai?",
+    "options": [
+      "Asynchronous tasks ko execution model ke saath coordinate karna",
+      "CSS ko compile karna",
+      "HTML ko parse karna",
+      "Database create karna"
+    ],
+    "answer": "Asynchronous tasks ko execution model ke saath coordinate karna"
+  },
+  {
+    "id": 92,
+    "question": "JavaScript me synchronous code aur asynchronous code me main difference kya hai?",
+    "options": [
+      "Synchronous code sequence me execute hota hai, asynchronous operations wait kiye bina aage badh sakte hain",
+      "Dono exactly same hain",
+      "Asynchronous code sirf CSS ke liye hota hai",
+      "Synchronous code browser me run nahi hota"
+    ],
+    "answer": "Synchronous code sequence me execute hota hai, asynchronous operations wait kiye bina aage badh sakte hain"
+  },
+  {
+    "id": 93,
+    "question": "JavaScript me `Promise.all()` ka use kab useful hota hai?",
+    "options": [
+      "Multiple promises ko parallel handle karke sabke complete hone ka wait karne ke liye",
+      "Sirf ek promise ko cancel karne ke liye",
+      "CSS load karne ke liye",
+      "HTML elements delete karne ke liye"
+    ],
+    "answer": "Multiple promises ko parallel handle karke sabke complete hone ka wait karne ke liye"
+  },
+  {
+    "id": 94,
+    "question": "JavaScript me shallow copy banane ke liye inme se kya use kiya ja sakta hai?",
+    "options": [
+      "Spread operator",
+      "delete operator",
+      "typeof",
+      "instanceof"
+    ],
+    "answer": "Spread operator"
+  },
+  {
+    "id": 95,
+    "question": "JavaScript me `localStorage` ka data browser me generally kab tak rehta hai?",
+    "options": [
+      "Page refresh tak",
+      "Tab close tak",
+      "Jab tak manually remove ya clear na kiya jaye",
+      "Sirf 5 minutes"
+    ],
+    "answer": "Jab tak manually remove ya clear na kiya jaye"
+  },
+  {
+    "id": 96,
+    "question": "JavaScript me `sessionStorage` ka data generally kis duration tak available hota hai?",
+    "options": [
+      "Browser permanently",
+      "Current browser tab/session ke dauran",
+      "Sirf page load hone tak",
+      "Exactly 24 hours"
+    ],
+    "answer": "Current browser tab/session ke dauran"
+  },
+  {
+    "id": 97,
+    "question": "CSS me pseudo-class `:hover` kab apply hoti hai?",
+    "options": [
+      "Jab element par mouse pointer hover karta hai",
+      "Jab page load hota hai",
+      "Jab element delete hota hai",
+      "Jab keyboard band hota hai"
+    ],
+    "answer": "Jab element par mouse pointer hover karta hai"
+  },
+  {
+    "id": 98,
+    "question": "HTML me semantic element ka example kaunsa hai?",
+    "options": [
+      "<div>",
+      "<span>",
+      "<article>",
+      "<box>"
+    ],
+    "answer": "<article>"
+  },
+  {
+    "id": 99,
+    "question": "HTML me accessibility improve karne ke liye image ke saath kaunsa attribute important hota hai?",
+    "options": [
+      "src",
+      "href",
+      "alt",
+      "title"
+    ],
+    "answer": "alt"
+  },
+  {
+    "id": 100,
+    "question": "Frontend development me responsive design ka main goal kya hai?",
+    "options": [
+      "Website ko sirf desktop par chalana",
+      "Website ko different screen sizes par properly adapt karna",
+      "Website ka server banana",
+      "Website ko database se connect karna"
+    ],
+    "answer": "Website ko different screen sizes par properly adapt karna"
+  }
+]
