@@ -17,3 +17,5 @@ Project navBar toggle mobile responsive ✅
 List Rendring ✅
 <br>
 Porduct card Projectr done✅ 
+<br>
+input handling ✅ 
