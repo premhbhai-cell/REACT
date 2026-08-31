@@ -19,3 +19,5 @@ List Rendring ✅
 Porduct card Projectr done✅ 
 <br>
 input handling ✅ 
+<br>
+Radio Button and Pyament handling same ✅ 
