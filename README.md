@@ -16,8 +16,10 @@ Project navBar toggle mobile responsive ✅
 <br>
 List Rendring ✅
 <br>
-Porduct card Projectr done✅ 
+Porduct card Projectr done✅
 <br>
-input handling ✅ 
+input handling ✅
 <br>
-Radio Button and Pyament handling same ✅ 
+Radio Button and Pyament handling same ✅
+<br>
+dropdown menu (paments/country select ya options) done
