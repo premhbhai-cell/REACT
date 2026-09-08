@@ -1,5 +1,5 @@
 @import "tailwindcss";
-
+/* 
 :root {
   --text: #6b6375;
   --text-h: #08060d;
@@ -290,4 +290,4 @@ button:disabled {
 
 .button-icon {
   object-fit: contain;
-}
+} */
