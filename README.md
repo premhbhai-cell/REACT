@@ -25,3 +25,7 @@ Radio Button and Pyament handling same ✅
 dropdown menu (paments/country select ya options) done
 <br>
 useRef done ✅ 
+<br>
+Project Password Genrater✅ 
+<br>
+Axios and Roter Dom ✅
