@@ -5,19 +5,27 @@ const NewContext = createContext();
 
 const NewsContextProvide = ({ children }) => {
   const [news, setNews] = useState([]);
+  const [loading, setLoading] = useState(false);
 
-  const fetchNews = async () => {
+ const fetchNews = async (query) => {
+  setLoading(true);
+
+  try {
     const response = await api.get(
-      `/everything?q=bitcoin&apiKey=${import.meta.env.VITE_API_KEY}`,
+      `/everything?q=${query}&apiKey=${import.meta.env.VITE_API_KEY}`
     );
 
     return response.data;
-  };
+  } finally {
+    setLoading(false);
+  }
+};
 
   const value = {
     news,
     setNews,
     fetchNews,
+    loading,
   };
 
   return <NewContext.Provider value={value}>{children}</NewContext.Provider>;
